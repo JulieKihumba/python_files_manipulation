@@ -7,3 +7,4 @@ else:
     name=input("What is your name? ")
     favColor=input("What is your favourite color? ")
     print(f"Hello {name}! Your favourite color is {favColor}.")
+ 
